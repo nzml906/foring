@@ -73,7 +73,7 @@
 
     <main>
       <section class="foring-featured text-mont bg-light">
-        <!-- featured -->
+        <!-- featured Testimonials -->
         <div class="container pt-8">
           <div class="row justify-content-center pb-5">
             <div class="col-12  text-center text-uppercase">
@@ -135,10 +135,9 @@
       </section>
 
       <section class="foring-video text-white">
-        <!-- video testimonial -->
         <div class="container pt-5">
           <div class="row justify-content-center">
-            <div class="col col-md-8 text-center text-uppercase text-mont">
+            <div class="col-12 col-md-8 text-center text-uppercase text-mont">
               <h1 class="fs-50 lh-60 f-400">Video Testimonials</h1>
             </div>
           </div>
@@ -294,7 +293,7 @@
         </div>
       </section>
 
-      <section class="foring-trust bg-dark">
+      <section class="foring-trust">
         <div class="container text-mont pb-5">
           <div class="row justify-content-center text-center">
             <div class="col-12 text-white mb-5  text-uppercase">
@@ -471,7 +470,7 @@
             </div>
           </div>
         </div>
-
+        <!-- dropdown -->
         <div class="foring-form">
           <div class="container">
             <div class="row justify-content-center">
@@ -492,19 +491,130 @@
             </div>
           </div>
         </div>
+        <!-- 2 cards -->
+        <div class="container mt-5">
+          <div class="row justify-content-center">
+            <div class="col-12 col-lg-6">
+              <div class="card-client">
+                <h3 class="card-client_title">
+                  Personal Cyber Security
+                </h3>
 
-        <div class="line-featured mt-5 mb-5"></div>
+                <div class="container mt-5">
+                  <div class="row justify-content-center">
+                    <div class="col-md-4">
+                      <img src="img/trusted/2.png" alt="" class="img-fluid" />
+                    </div>
+                  </div>
+                </div>
 
-        <!-- <div class="container">
-          <div class="row ">
-            <div class="col-12 d-flex justify-content-center">
-              <select>
-                <option value="1">Personal Cyber Security Reviews</option>
-                <option value="2">Option 2</option>
-              </select>
+                <div class="line-featured mt-5 mb-5"></div>
+
+                <div class="container mt-5">
+                  <div class="row justify-content-end">
+                    <div class="col-md-2">
+                      <img
+                        src="img/quotation-marks.png"
+                        alt=""
+                        class="img-fluid"
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="container mt-n3">
+                  <div class="row justify-content-end">
+                    <div class="col-md-3">
+                      <img
+                        src="img/Client-trust-pilot.png"
+                        alt=""
+                        class="img-fluid rounded-circle"
+                      />
+                    </div>
+
+                    <div class="col-md-9">
+                      <h3 class="text-uppercase fs-30 f-700 ">
+                        Amrin Herman
+                      </h3>
+                      <p class="fs-24 f-700">Commander-in-Chief, US Army</p>
+                    </div>
+                  </div>
+
+                  <p class="fs-24 f-400 lh-40">
+                    Lorem ipsum, or lipsum as it is sometimes known, is dummy
+                    text used in laying out print, graphic or web designs. The
+                    passage is attributed to an unknown typesetter in the 15th
+                    century who is thought to have scrambled parts of Cicero's
+                    De Finibus Bonorum et Malorum for use in a type specimen
+                    book.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-lg-6">
+              <div class="card-client">
+                <h3 class="card-client_title">
+                  Personal Cyber Security
+                </h3>
+
+                <div class="container mt-5">
+                  <div class="row justify-content-center">
+                    <div class="col-md-4">
+                      <img src="img/trusted/2.png" alt="" class="img-fluid" />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="line-featured mt-5 mb-5"></div>
+
+                <div class="container mt-5">
+                  <div class="row justify-content-end">
+                    <div class="col-md-2">
+                      <img
+                        src="img/quotation-marks.png"
+                        alt=""
+                        class="img-fluid"
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="container mt-n3">
+                  <div class="row justify-content-end">
+                    <div class="col-md-3">
+                      <img
+                        src="img/Client-trust-pilot.png"
+                        alt=""
+                        class="img-fluid rounded-circle"
+                      />
+                    </div>
+
+                    <div class="col-md-9">
+                      <h3 class="text-uppercase fs-30 f-700 ">
+                        Amrin Herman
+                      </h3>
+                      <p class="fs-24 f-700">Commander-in-Chief, US Army</p>
+                    </div>
+                  </div>
+
+                  <p class="fs-24 f-400 lh-40">
+                    Lorem ipsum, or lipsum as it is sometimes known, is dummy
+                    text used in laying out print, graphic or web designs. The
+                    passage is attributed to an unknown typesetter in the 15th
+                    century who is thought to have scrambled parts of Cicero's
+                    De Finibus Bonorum et Malorum for use in a type specimen
+                    book.
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
-        </div> -->
+        </div>
+
+        <div class="container">
+          <div class="line-featured mt-5 mb-5"></div>
+        </div>
       </section>
 
       <section class="foring-case text-mont ">

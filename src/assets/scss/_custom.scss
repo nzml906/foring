@@ -91,6 +91,7 @@
 }
 
 .foring-trust {
+  background-color: #1d2440;
   padding: 4.875rem 0 6.625rem 0;
   .line-featured {
     background-color: #5bbc2e;
@@ -136,6 +137,35 @@
     background: url('../img/d.svg') no-repeat right;
     -webkit-appearance: none;
     background-position-x: 95%;
+  }
+  .card-client {
+    position: relative;
+    background-color: #f4f4f4;
+    padding: 40px 0 0 0;
+
+    &_title::before {
+      content: '';
+      border-top: 15px solid #5bbc2e;
+      border-left: 15px solid transparent;
+      border-bottom: 15px solid transparent;
+      position: absolute;
+      bottom: -30px;
+      left: 0;
+    }
+
+    &_title {
+      position: relative;
+      max-width: 85%;
+      color: #fff;
+      background: #5bbc2e;
+      margin-left: -15px;
+      padding: 10px 30px;
+
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
   }
 }
 
